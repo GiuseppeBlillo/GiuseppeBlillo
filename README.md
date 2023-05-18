@@ -11,10 +11,10 @@
 <div align="right">
 <h3>:mag:About Me</h3>
 
-<p>-  I’m a Java Developer Student :computer:
--  I’m currently attending a Java course :books:
--  My hobbies are playing videogames, listening to music :musical_note:
-  -  I'm a gym passionate 💪</p>
+<p>  I’m a Java Developer Student :computer:</p>
+<p>  I’m currently attending a Java course :books:</p>
+<p>  My hobbies are playing videogames, listening to music :musical_note:</p>
+<p>   I'm a gym passionate 💪</p>
 </div>
 
 <br>
