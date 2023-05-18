@@ -8,7 +8,7 @@
 
 <hr>
 <div>
-<img align="left" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="left" alt="GIF" width="300" src="https://preview.redd.it/lso74qzc76611.gif?width=720&format=mp4&v=enabled&s=776cdc4a06ec538aca6ba6e7bfebc42d67df9cb2"/>
   
 <div align="right">
 <h3>:mag:About Me</h3>
