@@ -29,7 +29,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img height="40" src=" https://www.svgrepo.com/show/303205/html-5-logo.svg"></code>
+<code><img height="40" src="https://www.svgrepo.com/show/303205/html-5-logo.svg"></code>
 </div>
 
 <hr>
