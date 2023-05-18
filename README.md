@@ -15,6 +15,7 @@
 <p>  I’m currently attending a Java course :books:</p>
 <p>  My hobbies are playing videogames, listening to music :musical_note:</p>
 <p>   I'm a gym passionate 💪</p>
+<br>
 </div>
 
 
