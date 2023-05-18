@@ -2,11 +2,11 @@
   
 <h3>Look at my Codewars Badge:</h3>
 <p>
-<a href="https://www.codewars.com/users/JoeBlillo/badges/small" target="blank"><img align="center" src="https://www.codewars.com/users/JoeBlillo/badges/large" alt="Codewars Lillo" height="50" width="400" /></a>
+<a href="https://www.codewars.com/users/JoeBlillo" target="blank"><img align="center" src="https://www.codewars.com/users/JoeBlillo/badges/large" alt="Codewars Lillo" height="50" width="400" /></a>
 </p>
   
 </div>
-
+<hr>
 <img align="left" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <div align="right">
 <h3>:mag:About Me</h3>
