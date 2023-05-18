@@ -28,7 +28,7 @@
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 </div>
-/* <hr>
+<hr>
 
 <div align="center">
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
