@@ -17,7 +17,7 @@
 <p>   I'm a gym passionate 💪</p>
 </div>
 
-<br>
+
 <br>
 <hr>
 
