@@ -12,9 +12,9 @@
 <h3>:mag:About Me</h3>
 
 <p>  I’m a Java Developer Student :computer:</p>
-<p>  I’m currently attending a Java course :books:</p>
-<p>  My hobbies are playing videogames, listening to music :musical_note:</p>
-<p>   I'm a gym passionate 💪</p>
+<p>  I’m currently attending a Java course on <a href="https://www.develhope.co/"> Develhope</a> :books:</p>
+<p>  My hobbies are playing videogames and listening music :musical_note:</p>
+<p>  I'm a gym passionate 💪</p>
 <br>
 </div>
 
@@ -27,6 +27,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 
 </div>
 <hr>
