@@ -13,7 +13,7 @@
 
 -  I’m a Java Developer Student :computer:
 -  I’m currently attending a Java course :books:
--  My hobbies are playing videogames, listening music :musical_note:
+-  My hobbies are playing videogames, listening to music :musical_note:
 -  I'm a gym passionate 💪
 </div>
 
