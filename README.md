@@ -27,7 +27,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 
 </div>
 <hr>
