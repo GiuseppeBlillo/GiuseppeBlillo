@@ -30,7 +30,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
   
 </div>
 
