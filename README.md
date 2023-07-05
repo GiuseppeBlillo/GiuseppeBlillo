@@ -24,16 +24,16 @@
 
 <div align="center">
 <h3>:wrench:Languages and Tools</h3>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"></code>
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
-<code><img height="40" src="https://dbeaver.com/img/dbeaver-head.png"></code>
-<code><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJs"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" title="HTML 5"></code>
+<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA"></code>
+<code><img height="40" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver"></code>
+<code><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring"></code>
   
 </div>
 
