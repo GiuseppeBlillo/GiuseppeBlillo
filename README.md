@@ -1,12 +1,4 @@
-<div align="center">
-  
-<h3>Look at my Codewars Badge:</h3>
-<p>
-<a href="https://www.codewars.com/users/JoeBlillo" target="blank"><img align="center" src="https://www.codewars.com/users/JoeBlillo/badges/large" alt="Codewars Lillo" height="50" width="400" /></a>
-</p>
-</div>
 
-<hr>
 <div>
 <img align="left" alt="GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
   
@@ -41,3 +33,18 @@
 
 <div align="center">
 </div>
+<div align="center">
+<h3>Look at my Codewars Badge:</h3>
+<a href="https://www.codewars.com/users/JoeBlillo" target="_blank"><img src="https://www.codewars.com/users/JoeBlillo/badges/large" alt="Codewars Lillo" height="50" width="380" /></a>
+
+<hr>
+
+<div align="center">
+<h3>Look at my HackerRank Badges:</h3>
+
+<a href="https://www.hackerrank.com/b_giuseppe?hr_r=1" target="_blank"><img height="40" src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" title="SQL" alt="HackerRank Lillo" height="50" width="40"></a>
+
+</div>
+</div>
+
+<hr>
