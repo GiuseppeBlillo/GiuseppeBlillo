@@ -24,7 +24,9 @@
 <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA"></code>
 <code><img height="40" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver"></code>
-<code><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring"></code>  
+<code><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring"></code>
+<code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" title="Maven"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" title="Hibernate"></code>
 </div>
 
 <hr>
