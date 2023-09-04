@@ -26,7 +26,6 @@
 <code><img height="40" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver"></code>
 <code><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring"></code>
 <code><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" title="Maven"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" title="Hibernate"></code>
 </div>
 
 <hr>
