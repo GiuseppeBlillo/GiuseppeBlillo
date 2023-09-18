@@ -4,8 +4,8 @@
 
 <div align="right">
 <h3>:mag:About Me</h3>
-<p>  I’m a Java Developer Student :computer:</p>
-<p>  I’m currently attending a Java course on <a href="https://www.develhope.co/"> Develhope</a> :books:</p>
+<p>  I’m a Java Developer :computer:</p>
+<p>  I successfully finished a Java course on <a href="https://www.develhope.co/"> Develhope</a> :books:</p>
 <p>  My hobbies are playing videogames and listening music :musical_note:</p>
 <p>  I'm a gym passionate 💪</p>
 <br>
@@ -41,3 +41,9 @@
 <h3>Look at my HackerRank Badges:</h3>
 <a href="https://www.hackerrank.com/b_giuseppe?hr_r=1" target="_blank"><img height="40" src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" title="SQL" alt="HackerRank Lillo" height="50" width="40"></a>
 </div>
+
+<hr>
+<div align="center">
+<h3>Certifications</h3>
+<code><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82107328"><img height="150" src="https://images.credential.net/badge/tiny/vivcfmlh_1695029258123_badge.png" title="Develhope"></code>
+
