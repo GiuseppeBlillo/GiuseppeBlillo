@@ -32,13 +32,19 @@
     </tr>
     <tr>
       <td align="left">
-        <img height="100" src="https://images.credential.net/badge/tiny/vivcfmlh_1695029258123_badge.png" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82107328" target="_blank" title="Develhope"/>
+        <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/82107328" target="_blank" title="Develhope">
+        <img height="100" src="https://images.credential.net/badge/tiny/vivcfmlh_1695029258123_badge.png">
+        </a>
       </td>
       <td align="center">
-        <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" href="https://www.hackerrank.com/b_giuseppe?hr_r=1" target="_blank" title="HackerRank SQL" height="50" width="40"/>
+        <a href="https://www.hackerrank.com/b_giuseppe?hr_r=1" target="_blank" title="HackerRank SQL">
+        <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg"height="50" width="40">
+        </a>
       </td>
       <td align="right">
-        <img src="https://www.codewars.com/users/JoeBlillo/badges/small" href="https://www.codewars.com/users/JoeBlillo" target="_blank" title="Codewars" height="40" width="350"/>
+        <a href="https://www.codewars.com/users/JoeBlillo" target="_blank" title="Codewars">
+        <img src="https://www.codewars.com/users/JoeBlillo/badges/small" height="40" width="350">
+        </a>
       </td>
     </tr>
   </table>
