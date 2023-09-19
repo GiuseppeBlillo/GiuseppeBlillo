@@ -22,8 +22,8 @@
 </div>
 <hr>
 <br>
-<table>
-  <div align="center">
+<div align="center">
+  <table>
     <h3>Certifications and Badges</h3>
     <tr>
       <td align="left">Certifications:</td>
@@ -42,4 +42,4 @@
       </td>
     </tr>
   </table>
-  </div>
+</div>
