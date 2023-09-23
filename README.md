@@ -8,17 +8,17 @@
 </div>
 <div align="right">
   <h3>:wrench:Languages and Tools</h3>
-  <img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code">
-  <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJs">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" title="HTML 5">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="MySQL">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ IDEA">
-  <img height="40" src="https://dbeaver.com/img/dbeaver-head.png" title="DBeaver">
-  <img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg" title="Spring">
-  <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" title="Maven">
+  <a href="https://www.java.com/" target="_blank" title="Java"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></a>
+  <a href="https://www.javascript.com/" target="_blank" title="Javascript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a>
+  <a href="https://nodejs.org/" target="_blank" title="NodeJS"><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank" title="HTML 5"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">
+  <a href="https://www.mysql.com/" target="_blank"  title="MySQL"><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+  <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
+  <a href="https://dbeaver.io/" target="_blank" title="DBeaver"><img height="40" src="https://dbeaver.com/img/dbeaver-head.png">
+  <a href="https://spring.io/" target="_blank" title="Spring"><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg">
+  <a href="https://maven.apache.org/" target="_blank" title="Maven"><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
 </div>
 <hr>
 <br>
