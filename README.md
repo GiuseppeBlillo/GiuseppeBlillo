@@ -48,4 +48,8 @@
       </td>
     </tr>
   </table>
+  
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@GiuseppeBlillo/30-nites-of-code)  
+  ![@GiuseppeBlillo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=GiuseppeBlillo)
 </div>
