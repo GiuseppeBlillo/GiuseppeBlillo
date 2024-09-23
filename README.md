@@ -22,6 +22,7 @@
   <a href="https://redis.io/" target="_blank" title="Redis"><img height="40" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"></a>
   <a href="https://clickhouse.com/" target="_blank" title="ClickHouse"><img height="40" src="https://cdnlogo.com/logos/c/57/clickhouse.svg"></a>
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"></a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></a>
   <a href="https://docs.redpanda.com/redpanda-connect/about/" target="_blank" title="Benthos😢"><img height="40" src="https://avatars.githubusercontent.com/u/49406389?s=200&v=4"></a>
 </div>
 <hr>
