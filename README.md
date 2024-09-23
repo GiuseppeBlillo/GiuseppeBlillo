@@ -19,6 +19,10 @@
   <a href="https://dbeaver.io/" target="_blank" title="DBeaver"><img height="40" src="https://dbeaver.com/img/dbeaver-head.png"></a>
   <a href="https://spring.io/" target="_blank" title="Spring"><img height="40" src="https://www.svgrepo.com/show/354380/spring-icon.svg"></a>
   <a href="https://maven.apache.org/" target="_blank" title="Maven"><img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"></a>
+  <a href="https://redis.io/" target="_blank" title="Redis"><img height="40" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"></a>
+  <a href="https://clickhouse.com/" target="_blank" title="ClickHouse"><img height="40" src="https://cdnlogo.com/logos/c/57/clickhouse.svg"></a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"></a>
+  <a href="https://docs.redpanda.com/redpanda-connect/about/" target="_blank" title="Benthos😢"><img height="40" src="https://avatars.githubusercontent.com/u/49406389?s=200&v=4"></a>
 </div>
 <hr>
 <br>
